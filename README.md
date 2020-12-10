@@ -1,0 +1,2 @@
+# BlazorApp
+ First Blazor App
